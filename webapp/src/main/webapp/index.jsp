@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, 2nd Integration Test of Kubernetes and Slack </h1>
+   <h1> Thankyou, Happy Learning, 3rd Integration Test of Kubernetes and Slack </h1>
 
   
 </form>
